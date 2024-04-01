@@ -16,6 +16,8 @@ public class Product {
     private int price;
     private String condition;
 
+    public Product() {}
+
     public Product(Long id, String name, int price, String condition) {
         this.id = id;
         this.name = name;

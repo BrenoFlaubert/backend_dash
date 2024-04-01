@@ -1,5 +1,7 @@
+@apiurl = http://localhost:8080/api/products
+
 # POST - create new product
-POST http://localhost:8080/api/products
+POST {{apiurl}}
 Content-Type: application/json
 
 {
@@ -11,6 +13,6 @@ Content-Type: application/json
 
 # GET - return all products
 
-GET http://localhost:8080/api/products
+GET {{apiurl}}
 Content-Type: application/json
 

@@ -8,7 +8,7 @@ This is the README for Dashboard App, a project developed using Java 17, Spring 
 - Spring Boot: [Official Site](https://spring.io/projects/spring-boot)
 - H2 Database: [Official Site](https://www.h2database.com/html/main.html)
 - JPA (Java Persistence API): [Official Site](https://www.oracle.com/java/technologies/persistence-jsp.html)
-- Loombok
+- Lombok
 
 ## Project Description
 

@@ -5,9 +5,12 @@ POST {{apiurl}}
 Content-Type: application/json
 
 {
-    "name": "SSD 480GB NVME",
+    "name": "SSD 500GB NVME",
     "price": 400,
-    "condition": "new"
+    "condition": "new",
+    "quantityPurchased": 2,
+    "soldAmount": 4,
+    "quantityInStock": 6
 }
 ###
 
